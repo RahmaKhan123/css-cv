@@ -1,0 +1,134 @@
+body{ color: #40514E;
+margin:0;
+text-align: center;
+font-family:'Merriweather',serif;
+}
+h1{ color: #2B4865;
+   font-size: 5.625rem;
+
+   margin: 50px auto 0 auto;
+   font-family: 'Sacramento',cursive;
+   font-weight: 100;
+}
+h2{color: #256D85;
+   margin:0;
+   font-size: 2.5rem;
+
+   font-family: 'Montserrat',sans-serif;
+
+   font-weight: bold;
+   padding-top: 30PX;
+}
+h3{color:#2B4865 ;
+
+   font-family: 'Montserrat',sans-serif;
+   font-weight: bold;
+}
+p{
+   line-height: 2;
+}
+
+.top-container{
+   background-color:#9fb4f2 ;
+   padding-top: 80px;
+
+}
+
+.middle-container{
+padding-top: 50PX;
+
+
+
+}
+
+
+.bottom-container{
+   background-color: #9fb4f2;
+   color: white;
+   padding:50px 0 20px;
+
+}
+.copy-right{
+   font-weight: lighter;
+   font-size: 0.75rem;
+padding: 20px 0;
+}
+a{
+   color:#405da8;
+   font-family: 'Montserrat',sans-serif;
+   margin: 10px 10px;
+   text-decoration: none;
+   
+}
+a:hover{
+   color:#ffffff;
+}
+
+.profile{
+   margin-top: 10px;
+   text-align: center;
+
+}
+
+.skill-row{
+   width: 50%;
+   margin:50px auto 50px auto;
+text-align: center ;
+}
+.top-cloud{
+   position: relative;
+   top: 10px;
+   left: 200px;
+}
+.bottom-cloud{
+   position: absolute;
+
+}
+.design-img{
+
+}
+.dress-img{
+
+
+}
+.ball-img{ width: 25%;}
+.intro{
+   width: 30%;
+   margin: auto;
+
+}
+   hr{
+   margin-top: 50px;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 3px;
+   width: 3%
+   }
+
+
+   .btn {
+   	box-shadow:inset 0px 0px 13px 2px #9fb4f2;
+   	background:linear-gradient(to bottom, #7892c2 100%, #476e9e 100%);
+   	background-color:#7892c2;
+   	border-radius:10px;
+   	border:1px solid #4e6096;
+   	display:inline-block;
+   	cursor:pointer;
+   	color:#ffffff;
+      font-family: 'Montserrat',sans-serif;
+   	font-size:16px;
+   	padding:12px 37px;
+   	text-decoration:none;
+   	text-shadow:0px 1px 0px #405da8;
+      margin-top: 50px;
+      margin-bottom: 50px;
+   }
+   .btn:hover {
+   	background:linear-gradient(to bottom, #476e9e 100%, #7892c2 100%);
+   	background-color:#476e9e;
+   }
+   .btn:active {
+   	position:relative;
+   	top:1px;
+   }
